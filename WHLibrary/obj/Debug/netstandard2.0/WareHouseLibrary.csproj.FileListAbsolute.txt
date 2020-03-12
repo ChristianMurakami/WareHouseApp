@@ -1,0 +1,6 @@
+C:\Users\9000180804\Desktop\final c#2 - jan23\ChristiansRepository-master\bin\Debug\netstandard2.0\WareHouseLibrary.deps.json
+C:\Users\9000180804\Desktop\final c#2 - jan23\ChristiansRepository-master\bin\Debug\netstandard2.0\WareHouseLibrary.dll
+C:\Users\9000180804\Desktop\final c#2 - jan23\ChristiansRepository-master\obj\Debug\netstandard2.0\WareHouseLibrary.csprojAssemblyReference.cache
+C:\Users\9000180804\Desktop\final c#2 - jan23\ChristiansRepository-master\obj\Debug\netstandard2.0\WareHouseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\9000180804\Desktop\final c#2 - jan23\ChristiansRepository-master\obj\Debug\netstandard2.0\WareHouseLibrary.AssemblyInfoInputs.cache
+C:\Users\9000180804\Desktop\final c#2 - jan23\ChristiansRepository-master\obj\Debug\netstandard2.0\WareHouseLibrary.AssemblyInfo.cs
